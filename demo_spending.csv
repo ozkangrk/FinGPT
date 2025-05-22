@@ -1,0 +1,201 @@
+date,category,amount,notes
+2024-11-24,Shopping,148.1,
+2024-11-27,Utilities,228.31,
+2024-11-28,Healthcare,27.43,
+2024-11-29,Healthcare,124.06,Planned expense
+2024-11-29,Entertainment,28.94,
+2024-11-30,Coffee,8.9,
+2024-12-03,Transport,49.96,
+2024-12-03,Shopping,91.67,Impulse buy
+2024-12-03,Transport,31.48,Impulse buy
+2024-12-04,Shopping,188.37,Emergency
+2024-12-04,Utilities,248.42,
+2024-12-04,Gas,56.9,Special occasion
+2024-12-05,Gas,60.59,
+2024-12-07,Entertainment,103.6,
+2024-12-07,Entertainment,25.68,
+2024-12-08,Gas,65.05,
+2024-12-08,Transport,37.59,Regular purchase
+2024-12-08,Dining,84.7,
+2024-12-10,Utilities,149.37,Emergency
+2024-12-10,Gas,74.93,Emergency
+2024-12-11,Utilities,204.06,Regular purchase
+2024-12-12,Healthcare,66.95,
+2024-12-13,Groceries,93.89,
+2024-12-13,Dining,41.71,
+2024-12-13,Entertainment,76.33,
+2024-12-13,Healthcare,46.83,
+2024-12-14,Healthcare,70.67,
+2024-12-14,Coffee,7.0,Bulk buy
+2024-12-15,Shopping,94.23,
+2024-12-15,Shopping,119.16,
+2024-12-16,Coffee,7.34,
+2024-12-16,Dining,72.66,Special occasion
+2024-12-17,Entertainment,13.61,
+2024-12-17,Shopping,156.8,
+2024-12-18,Entertainment,40.15,
+2024-12-18,Healthcare,22.44,
+2024-12-19,Groceries,135.14,Emergency
+2024-12-19,Groceries,43.48,
+2024-12-20,Utilities,168.08,
+2024-12-20,Dining,73.88,
+2024-12-20,Dining,75.29,
+2024-12-21,Coffee,8.78,
+2024-12-22,Dining,40.11,Emergency
+2024-12-22,Shopping,160.39,Impulse buy
+2024-12-22,Dining,77.95,
+2024-12-23,Entertainment,78.19,
+2024-12-23,Utilities,51.21,
+2024-12-26,Transport,25.18,
+2024-12-27,Groceries,85.16,
+2024-12-28,Transport,19.53,Planned expense
+2024-12-28,Utilities,203.71,
+2024-12-29,Healthcare,189.01,
+2024-12-29,Transport,16.72,
+2024-12-29,Dining,54.52,
+2024-12-30,Utilities,259.47,Regular purchase
+2024-12-31,Shopping,61.49,Regular purchase
+2024-12-31,Gas,56.59,
+2024-12-31,Dining,26.42,
+2025-01-01,Gas,39.53,
+2025-01-01,Transport,18.84,
+2025-01-02,Entertainment,71.17,
+2025-01-03,Healthcare,122.1,
+2025-01-05,Transport,31.68,
+2025-01-06,Healthcare,157.26,
+2025-01-06,Transport,15.6,Emergency
+2025-01-07,Groceries,25.49,Bulk buy
+2025-01-08,Entertainment,22.57,
+2025-01-08,Entertainment,48.41,Impulse buy
+2025-01-08,Shopping,29.64,Special occasion
+2025-01-08,Groceries,106.23,Impulse buy
+2025-01-09,Dining,74.57,Impulse buy
+2025-01-09,Gas,67.08,Bulk buy
+2025-01-09,Gas,67.36,
+2025-01-10,Shopping,71.81,Bulk buy
+2025-01-10,Entertainment,74.78,Regular purchase
+2025-01-10,Healthcare,98.15,
+2025-01-12,Gas,52.66,
+2025-01-12,Coffee,14.11,Planned expense
+2025-01-14,Healthcare,27.97,Impulse buy
+2025-01-14,Gas,60.02,
+2025-01-15,Entertainment,10.41,
+2025-01-16,Gas,63.5,Planned expense
+2025-01-17,Groceries,37.12,
+2025-01-17,Dining,72.36,
+2025-01-17,Healthcare,46.31,
+2025-01-21,Shopping,118.22,
+2025-01-22,Transport,37.97,
+2025-01-22,Groceries,117.79,Special occasion
+2025-01-23,Healthcare,66.67,
+2025-01-24,Groceries,82.31,Special occasion
+2025-01-24,Gas,66.18,
+2025-01-25,Groceries,117.54,
+2025-01-25,Gas,68.8,
+2025-01-25,Utilities,255.62,Impulse buy
+2025-01-27,Healthcare,59.43,
+2025-01-28,Utilities,60.27,Special occasion
+2025-01-28,Dining,17.9,Special occasion
+2025-01-29,Coffee,4.11,Bulk buy
+2025-01-29,Healthcare,180.16,
+2025-01-30,Gas,66.3,
+2025-01-30,Coffee,9.06,
+2025-01-31,Groceries,125.79,
+2025-02-03,Coffee,14.56,
+2025-02-04,Healthcare,144.31,Regular purchase
+2025-02-04,Shopping,173.44,
+2025-02-05,Coffee,5.21,
+2025-02-07,Utilities,211.09,
+2025-02-09,Entertainment,121.59,
+2025-02-09,Shopping,123.37,
+2025-02-11,Shopping,127.62,Special occasion
+2025-02-12,Gas,52.3,
+2025-02-14,Dining,52.46,
+2025-02-15,Healthcare,56.92,Special occasion
+2025-02-18,Gas,36.83,Planned expense
+2025-02-19,Dining,76.26,Emergency
+2025-02-21,Gas,72.63,
+2025-02-21,Dining,47.2,
+2025-02-21,Gas,33.34,
+2025-02-22,Coffee,13.01,Bulk buy
+2025-02-23,Shopping,150.28,Emergency
+2025-02-25,Coffee,13.66,
+2025-02-27,Utilities,227.3,Regular purchase
+2025-02-28,Transport,17.13,
+2025-03-01,Gas,32.5,Special occasion
+2025-03-02,Shopping,86.57,
+2025-03-03,Groceries,135.26,Planned expense
+2025-03-04,Dining,34.0,Impulse buy
+2025-03-08,Gas,75.45,
+2025-03-09,Entertainment,97.92,Bulk buy
+2025-03-11,Dining,55.15,
+2025-03-12,Groceries,79.95,
+2025-03-13,Utilities,135.16,
+2025-03-16,Groceries,26.22,Bulk buy
+2025-03-17,Coffee,10.87,
+2025-03-18,Groceries,56.21,
+2025-03-19,Utilities,269.16,
+2025-03-22,Gas,45.59,Special occasion
+2025-03-22,Entertainment,45.38,
+2025-03-22,Dining,27.45,
+2025-03-23,Shopping,48.38,Emergency
+2025-03-24,Entertainment,80.97,
+2025-03-27,Entertainment,93.77,Regular purchase
+2025-03-27,Healthcare,31.6,
+2025-03-28,Transport,19.98,
+2025-03-28,Coffee,10.91,Bulk buy
+2025-03-29,Healthcare,95.4,Bulk buy
+2025-03-30,Groceries,117.8,
+2025-04-03,Dining,51.92,
+2025-04-06,Coffee,12.88,
+2025-04-07,Shopping,179.12,
+2025-04-08,Shopping,43.95,Impulse buy
+2025-04-09,Entertainment,46.26,
+2025-04-10,Transport,22.2,
+2025-04-12,Transport,10.38,Impulse buy
+2025-04-13,Dining,50.57,Impulse buy
+2025-04-13,Healthcare,141.5,Emergency
+2025-04-14,Transport,20.74,Regular purchase
+2025-04-15,Entertainment,15.94,Bulk buy
+2025-04-16,Coffee,10.22,
+2025-04-17,Coffee,4.86,
+2025-04-17,Healthcare,107.34,
+2025-04-18,Transport,43.93,Special occasion
+2025-04-19,Transport,6.83,Regular purchase
+2025-04-19,Healthcare,198.66,
+2025-04-20,Coffee,5.73,
+2025-04-20,Shopping,186.46,
+2025-04-21,Shopping,170.65,
+2025-04-22,Dining,34.04,
+2025-04-23,Entertainment,59.08,Special occasion
+2025-04-24,Utilities,59.49,
+2025-04-24,Healthcare,117.91,
+2025-04-24,Transport,21.47,
+2025-04-25,Entertainment,30.94,
+2025-04-26,Entertainment,13.4,
+2025-04-27,Shopping,86.5,
+2025-04-27,Gas,31.73,
+2025-04-28,Groceries,45.53,
+2025-04-28,Entertainment,20.56,
+2025-04-28,Dining,24.23,
+2025-04-28,Gas,60.26,
+2025-04-30,Groceries,143.42,
+2025-05-01,Groceries,75.02,
+2025-05-06,Gas,38.62,
+2025-05-08,Utilities,208.15,
+2025-05-08,Entertainment,81.98,
+2025-05-08,Coffee,3.39,Bulk buy
+2025-05-09,Dining,29.58,
+2025-05-13,Groceries,73.15,
+2025-05-15,Gas,30.49,
+2025-05-15,Gas,52.84,
+2025-05-17,Transport,41.64,
+2025-05-18,Shopping,67.51,Impulse buy
+2025-05-19,Transport,45.14,
+2025-05-19,Dining,28.13,
+2025-05-20,Gas,56.41,
+2025-05-20,Healthcare,103.05,Bulk buy
+2025-05-21,Dining,45.99,Planned expense
+2025-05-21,Gas,75.76,
+2025-05-22,Coffee,13.41,
+2025-05-22,Gas,61.96,
